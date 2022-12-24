@@ -12,6 +12,7 @@ abcMinusc = "abcdefghijklmnñopqrstuvwxyz"
 abcIndex = len(abcMayusc) - 1
 abcLen = len(abcMayusc)
 
+
 textoFinal = ""
 
 def descifrarFunction():
